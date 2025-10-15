@@ -1,10 +1,10 @@
-<!-- Banner / Cabeçalho -->
+<!-- Banner / Header -->
 <h1 align="center">Gabriel Boeira</h1>
 <h3 align="center">Software Engineer | PHP | Laravel | Vue Js | Next Js | Full Stack</h3>
 
 <p align="center">
-🎓 Formado em <strong>Análise e Desenvolvimento de Sistemas</strong><br>
-🚀 Apaixonado por tecnologia e desenvolvimento web
+🎓 Graduated in <strong>Systems Analysis and Development</strong><br>
+🚀 Passionate about technology and web development
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ---
 
-### 🧠 Principais Tecnologias
+### 🧠 Main Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=laravel,php,vue,react,next,ts,js,html,css,tailwind,nodejs,postgres,mysql,git,docker" width="1200" height="700" style="margin: 6px;" />
@@ -29,7 +29,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Statistics
 
 <div align="center">
   <a href="https://github.com/GabrielMBoeira">
@@ -37,7 +37,5 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMBoeira&layout=compact&theme=radical" />
   </a>
 </div>
-
-
 
 
