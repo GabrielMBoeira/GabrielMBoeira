@@ -9,7 +9,7 @@
 
 ---
 
-### 🧠 Linguagens e Tecnologias
+### 🧠 Principais Tecnologias
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=laravel,php,vue,react,next,ts,js,html,css,tailwind,nodejs,postgres,mysql,git,docker" width="1200" height="700" style="margin: 6px;" />
