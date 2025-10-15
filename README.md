@@ -11,7 +11,7 @@
 
 ### 🧠 Linguagens e Tecnologias
 
-<p align="center">
+<p align="left">
   <!-- Frontend -->
   Frontend
   <img src="https://skillicons.dev/icons?i=react,next,ts,js,html,css,tailwind" width="160" height="160" style="margin: 6px;" />
