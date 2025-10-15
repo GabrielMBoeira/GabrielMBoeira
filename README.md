@@ -49,18 +49,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=GabrielMBoeira&theme=radical&no-frame=true&row=1&column=7" />
 </div>
 
----
-
-### 💻 GitHub Profile Summary Cards
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielMBoeira&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielMBoeira&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielMBoeira&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielMBoeira&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GabrielMBoeira&theme=radical" />
-</div>
-
 
 
 
