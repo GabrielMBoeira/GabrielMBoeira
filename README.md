@@ -1,5 +1,5 @@
 <!-- Banner / Cabeçalho -->
-<h1 align="center">👋 Olá, me chamo Gabriel!</h1>
+<h1 align="center">Bem-vindo ao meu perfil!</h1>
 <h3 align="center">Software Engineer | PHP | Laravel | Vue Js | Next Js | Full Stack</h3>
 
 <p align="center">
