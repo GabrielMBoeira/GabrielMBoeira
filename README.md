@@ -1,5 +1,5 @@
 <!-- Banner / Cabeçalho -->
-<h1 align="center">Gabriel Boeira V.9.9</h1>
+<h1 align="center">Gabriel Boeira</h1>
 <h3 align="center">Software Engineer | PHP | Laravel | Vue Js | Next Js | Full Stack</h3>
 
 <p align="center">
