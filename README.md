@@ -14,15 +14,15 @@
 <p align="center">
   <!-- Frontend -->
   Frontend
-  <img src="https://skillicons.dev/icons?i=react,next,ts,js,html,css,tailwind" width="80" height="80" style="margin: 6px;" />
+  <img src="https://skillicons.dev/icons?i=react,next,ts,js,html,css,tailwind" width="160" height="160" style="margin: 6px;" />
   <br/>
   <!-- Backend -->
   Backend
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql" width="80" height="80" style="margin: 6px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql" width="160" height="160" style="margin: 6px;" />
   <br/>
   <!-- Tools -->
   Tools
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker" width="80" height="80" style="margin: 6px;" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker" width="160" height="160" style="margin: 6px;" />
 </p>
 
 ---
