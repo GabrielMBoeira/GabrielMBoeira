@@ -27,9 +27,9 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/SEU_USUARIO">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" />
+  <a href="https://github.com/GabrielMBoeira">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMBoeira&show_icons=true&theme=radical&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMBoeira&layout=compact&theme=radical" />
   </a>
 </div>
 
@@ -39,16 +39,16 @@
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
-| [**esportes-a**](https://github.com/SEU_USUARIO/esportes-a) | Blog com Next.js, React, TypeScript e PostgreSQL | ![Next.js](https://skillicons.dev/icons?i=next,ts,prisma,postgres,tailwind) |
-| [**fullstack-donalds**](https://github.com/SEU_USUARIO/fullstack-donalds) | Projeto Full Stack usando React + Node.js | ![React](https://skillicons.dev/icons?i=react,nodejs,ts,express) |
-| [**e-commerce**](https://github.com/SEU_USUARIO/e-commerce) | Loja online com Next.js e Prisma | ![Next.js](https://skillicons.dev/icons?i=next,prisma,ts,postgres) |
+| [**esportes-a**](https://github.com/GabrielMBoeira/esportes-a) | Blog com Next.js, React, TypeScript e PostgreSQL | ![Next.js](https://skillicons.dev/icons?i=next,ts,prisma,postgres,tailwind) |
+| [**fullstack-donalds**](https://github.com/GabrielMBoeira/fullstack-donalds) | Projeto Full Stack usando React + Node.js | ![React](https://skillicons.dev/icons?i=react,nodejs,ts,express) |
+| [**e-commerce**](https://github.com/GabrielMBoeira/e-commerce) | Loja online com Next.js e Prisma | ![Next.js](https://skillicons.dev/icons?i=next,prisma,ts,postgres) |
 
 ---
 
 ### 🗓️ Contribuições Recentes
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielMBoeira&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
