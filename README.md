@@ -38,14 +38,6 @@
   </a>
 </div>
 
----
-
-### 🗓️ Contribuições Recentes
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielMBoeira&theme=radical" alt="GitHub Streak" />
-</div>
-
 
 
 
