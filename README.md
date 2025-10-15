@@ -33,9 +33,72 @@
 
 <div align="center">
   <a href="https://github.com/GabrielMBoeira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMBoeira&show_icons=true&theme=radical&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMBoeira&layout=compact&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMBoeira&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=Gabriel%27s%20GitHub%20Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMBoeira&layout=compact&theme=radical&hide=html,css&langs_count=8" />
   </a>
 </div>
 
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielMBoeira&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielMBoeira&theme=radical&hide_border=true&custom_title=Gabriel's%20Contribution%20Graph" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GabrielMBoeira&theme=radical&no-frame=true&row=1&column=7" />
+</div>
+
+---
+
+### 💻 GitHub Profile Summary Cards
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielMBoeira&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielMBoeira&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielMBoeira&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielMBoeira&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GabrielMBoeira&theme=radical" />
+</div>
+
+---
+
+### 📈 GitHub Metrics
+
+<div align="center">
+  <img src="https://github.com/GabrielMBoeira/GabrielMBoeira/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/GabrielMBoeira">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielMBoeira&repo=GabrielMBoeira&theme=radical" />
+  </a>
+</div>
+
+---
+
+### 🎯 Goals for 2024
+
+- [ ] Contribute to more open source projects
+- [ ] Increase GitHub streak to 365+ days
+- [ ] Learn and master new technologies
+- [ ] Build amazing web applications
+- [ ] Share knowledge with the community
+
+---
+
+### 💡 Fun Fact
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0080&center=true&vCenter=true&width=435&lines=Code+is+poetry+in+motion;Building+the+future+one+commit+at+a+time;Turning+ideas+into+digital+reality" alt="Typing SVG" />
+</div>
 
