@@ -38,4 +38,8 @@
   </a>
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Grade-A++-brightgreen?style=for-the-badge&label=Profile%20Quality" alt="Profile Quality: A++"/>
+</p>
+
 
