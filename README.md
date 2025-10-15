@@ -1,5 +1,8 @@
 <!-- Banner / Header -->
-<h1 align="center">Gabriel Boeira</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0080&center=true&vCenter=true&width=435&lines=Gabriel+Boeira;Building+the+future;Turning+ideas+into+digital+reality" alt="Typing SVG" />
+</div>
+
 <h3 align="center">Software Engineer | PHP | Laravel | Vue Js | Next Js | Full Stack</h3>
 
 <p align="center">
@@ -58,11 +61,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GabrielMBoeira&theme=radical" />
 </div>
 
----
 
-### 💡 Fun Fact
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0080&center=true&vCenter=true&width=435&lines=Code+is+poetry+in+motion;Building+the+future+one+commit+at+a+time;Turning+ideas+into+digital+reality" alt="Typing SVG" />
-</div>
 
