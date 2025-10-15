@@ -13,13 +13,13 @@
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,next,ts,js,html,css,tailwind" width="50" height="50" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=react,next,ts,js,html,css,tailwind" width="40" height="40" style="margin: 6px;" />
   <br/>
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql" width="50" height="50" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql" width="40" height="40" style="margin: 6px;" />
   <br/>
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker" width="50" height="50" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker" width="40" height="40" style="margin: 6px;" />
 </p>
 
 ---
