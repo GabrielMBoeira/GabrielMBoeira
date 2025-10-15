@@ -7,6 +7,18 @@
 🚀 Apaixonado por tecnologia e desenvolvimento web
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://seu-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ### 🧠 Principais Tecnologias
@@ -34,22 +46,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielMBoeira&theme=radical" alt="GitHub Streak" />
 </div>
 
----
 
-### 🌐 Onde me encontrar
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://seu-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/>
-  </a>
-</p>
-
----
-
-⭐ **"Construindo soluções e aprendendo algo novo todos os dias!"**
