@@ -60,34 +60,6 @@
 
 ---
 
-### 📈 GitHub Metrics
-
-<div align="center">
-  <img src="https://github.com/GabrielMBoeira/GabrielMBoeira/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/GabrielMBoeira">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielMBoeira&repo=GabrielMBoeira&theme=radical" />
-  </a>
-</div>
-
----
-
-### 🎯 Goals for 2024
-
-- [ ] Contribute to more open source projects
-- [ ] Increase GitHub streak to 365+ days
-- [ ] Learn and master new technologies
-- [ ] Build amazing web applications
-- [ ] Share knowledge with the community
-
----
-
 ### 💡 Fun Fact
 
 <div align="center">
