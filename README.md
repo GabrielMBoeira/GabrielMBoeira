@@ -35,16 +35,6 @@
 
 ---
 
-### 📌 Projetos Principais
-
-| Projeto | Descrição | Tecnologias |
-|----------|------------|--------------|
-| [**esportes-a**](https://github.com/GabrielMBoeira/esportes-a) | Blog com Next.js, React, TypeScript e PostgreSQL | ![Next.js](https://skillicons.dev/icons?i=next,ts,prisma,postgres,tailwind) |
-| [**fullstack-donalds**](https://github.com/GabrielMBoeira/fullstack-donalds) | Projeto Full Stack usando React + Node.js | ![React](https://skillicons.dev/icons?i=react,nodejs,ts,express) |
-| [**e-commerce**](https://github.com/GabrielMBoeira/e-commerce) | Loja online com Next.js e Prisma | ![Next.js](https://skillicons.dev/icons?i=next,prisma,ts,postgres) |
-
----
-
 ### 🗓️ Contribuições Recentes
 
 <div align="center">
