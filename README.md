@@ -38,14 +38,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielMBoeira&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielMBoeira&theme=radical&hide_border=true&custom_title=Gabriel's%20Contribution%20Graph" alt="GitHub Activity Graph" />
-</div>
-
 ---
 
 ### 🏆 GitHub Trophies
