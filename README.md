@@ -12,10 +12,7 @@
 ### 🧠 Linguagens e Tecnologias
 
 <p align="left">
-  <!-- Frontend -->
-  Frontend
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,next,ts,js,html,css,tailwind,nodejs,express,prisma,postgres,mysql,git,github,vscode,figma,linux,docker" width="160" height="160" style="margin: 6px;" />
+  <img src="https://skillicons.dev/icons?i=react,next,ts,js,html,css,tailwind,nodejs,express,prisma,postgres,mysql,git,github,vscode,figma,linux,docker" width="360" height="360" style="margin: 6px;" />
 </p>
 
 ---
