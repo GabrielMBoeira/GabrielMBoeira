@@ -12,7 +12,7 @@
 ### 🧠 Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,next,ts,js,html,css,tailwind,nodejs,express,prisma,postgres,mysql,git,github,vscode,figma,linux,docker" width="1200" height="700" style="margin: 6px;" />
+  <img src="https://skillicons.dev/icons?i=react,next,ts,js,html,css,tailwind,nodejs,prisma,postgres,mysql,git,github,vscode,linux,docker" width="1200" height="700" style="margin: 6px;" />
 </p>
 
 ---
