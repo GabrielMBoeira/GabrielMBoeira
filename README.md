@@ -1,95 +1,72 @@
-<div align="center">
-  <h1>Me Chamo [SEU NOME] 👋!</h1>
-</div>
+<!-- Banner / Cabeçalho -->
+<h1 align="center">👋 Olá, me chamo Gabriel!</h1>
+<h3 align="center">💻 Desenvolvedor Full Stack | ReactJS | Next.js | Node.js</h3>
+
+<p align="center">
+🎓 Formado em <strong>Análise e Desenvolvimento de Sistemas</strong><br>
+🚀 Apaixonado por tecnologia e desenvolvimento web
+</p>
 
 ---
 
-### 🎓 Formação e Foco
+### 🧠 Linguagens e Tecnologias
 
-*   **Cargo/Título:** Desenvolvedor Full-Stack Pleno
-*   **Foco:** Criação de soluções eficientes e escaláveis.
-*   **Buscando:** Projetos *freelance* desafiadores em desenvolvimento web e colaboração em projetos *open-source* de IA.
-
----
-
-### 💻 Linguagens e Tecnologias
-
-Minhas principais ferramentas de trabalho, divididas por área de atuação:
-
-<div align="center">
-  <h4>Frontend</h4>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  </p>
-
-  <h4>Backend & Integrações</h4>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodedotjs/nodedotjs-original.svg" alt="N8N" width="40" height="40"/> <!-- N8N não tem ícone oficial no devicon, usando Node.js como substituto ou você pode usar um badge -->
-  </p>
-
-  <h4>DevOps & Cloud</h4>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </p>
-</div>
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,next,ts,js,html,css,tailwind" />
+  <br/>
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql" />
+  <br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker" />
+</p>
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
-Minha dedicação e minhas linguagens de programação mais utilizadas.
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_GITHUB]&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO_GITHUB]&layout=compact&theme=dark&hide_border=true" alt="Linguagens Mais Usadas" />
-</div>
-
----
-
-### 📌 Projetos Fixados (Pinned)
-
-Aqui você pode fixar seus 6 melhores projetos. Eles aparecerão como cards, assim como no exemplo.
-
-*   **Dica:** O GitHub exibe automaticamente os repositórios que você fixar no seu perfil. Não é necessário código Markdown para esta seção, apenas o título.
-
-#### **Meus Repositórios em Destaque**
-
----
-
-### 📈 Atividade de Contribuição
-
-O gráfico de contribuições do GitHub é exibido automaticamente no seu perfil.
-
----
-
-### 🔗 Conecte-se Comigo
-
-<div align="center">
-  <a href="[LINK_DO_LINKEDIN]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:[SEU_EMAIL]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="[LINK_DO_PORTFOLIO]" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio" />
+  <a href="https://github.com/SEU_USUARIO">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" />
   </a>
 </div>
 
 ---
 
+### 📌 Projetos Principais
+
+| Projeto | Descrição | Tecnologias |
+|----------|------------|--------------|
+| [**esportes-a**](https://github.com/SEU_USUARIO/esportes-a) | Blog com Next.js, React, TypeScript e PostgreSQL | ![Next.js](https://skillicons.dev/icons?i=next,ts,prisma,postgres,tailwind) |
+| [**fullstack-donalds**](https://github.com/SEU_USUARIO/fullstack-donalds) | Projeto Full Stack usando React + Node.js | ![React](https://skillicons.dev/icons?i=react,nodejs,ts,express) |
+| [**e-commerce**](https://github.com/SEU_USUARIO/e-commerce) | Loja online com Next.js e Prisma | ![Next.js](https://skillicons.dev/icons?i=next,prisma,ts,postgres) |
+
+---
+
+### 🗓️ Contribuições Recentes
+
 <div align="center">
-  <p>Feito com 💻 e a paixão por **Inteligência Artificial** e **DevOps**.</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical" alt="GitHub Streak" />
 </div>
+
+---
+
+### 🌐 Onde me encontrar
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://seu-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ **"Construindo soluções e aprendendo algo novo todos os dias!"**
