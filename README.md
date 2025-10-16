@@ -46,5 +46,5 @@
 <span style="color:#7F3ACE"><strong>### 🏆 GitHub Trophies</strong></span>
 
 <div align="center" style="color:#7F3ACE">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielMBoeira&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GabrielMBoeira&theme=oldie&no-frame=true&row=1&column=7" />
 </div>
