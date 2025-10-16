@@ -6,11 +6,11 @@
 <h3 align="center" style="color:#4D0C70">Software Engineer | PHP | Laravel | Vue Js | Next Js | Full Stack</h3>
 
 <p align="center" style="color:#4D0C70">
-🎓 Graduated in <strong>Systems Analysis and Development</strong><br>
+🎓 Graduated in <strong style="color:#4D0C70">Systems Analysis and Development</strong><br>
 🚀 Passionate about technology and web development
 </p>
 
-<p align="center">
+<p align="center" style="color:#4D0C70">
   <a href="https://www.linkedin.com/in/gabrielmboeira/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -24,15 +24,15 @@
 
 ---
 
-### 🧠 Main Technologies
+<span style="color:#4D0C70"><strong>### 🧠 Main Technologies</strong></span>
 
-<p align="left">
+<p align="left" style="color:#4D0C70">
   <img src="https://skillicons.dev/icons?i=laravel,php,vue,react,next,ts,js,html,css,tailwind,nodejs,postgres,mysql,git,docker" width="1200" height="700" style="margin: 6px;" />
 </p>
 
 ---
 
-### 📊 GitHub Statistics
+<span style="color:#4D0C70"><strong>### 📊 GitHub Statistics</strong></span>
 
 <div align="center" style="color: #4D0C70">
   <a href="https://github.com/GabrielMBoeira">
@@ -43,9 +43,8 @@
 
 ---
 
-### 🏆 GitHub Trophies
+<span style="color:#4D0C70"><strong>### 🏆 GitHub Trophies</strong></span>
 
 <div align="center" style="color:#4D0C70">
   <img src="https://github-profile-trophy.vercel.app/?username=GabrielMBoeira&theme=radical&no-frame=true&row=1&column=7" />
 </div>
-
