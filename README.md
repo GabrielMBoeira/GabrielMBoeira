@@ -1,11 +1,11 @@
 <!-- Banner / Header -->
-<div align="center">
+<div align="center" style="color:#4B006E">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0080&center=true&vCenter=true&width=435&lines=Gabriel+Boeira;Building+the+future;Turning+ideas+into+digital+reality" alt="Typing SVG" />
 </div>
 
-<h3 align="center">Software Engineer | PHP | Laravel | Vue Js | Next Js | Full Stack</h3>
+<h3 align="center" style="color:#4B006E">Software Engineer | PHP | Laravel | Vue Js | Next Js | Full Stack</h3>
 
-<p align="center">
+<p align="center" style="color:#4B006E">
 🎓 Graduated in <strong>Systems Analysis and Development</strong><br>
 🚀 Passionate about technology and web development
 </p>
@@ -34,7 +34,7 @@
 
 ### 📊 GitHub Statistics
 
-<div align="center">
+<div align="center" style="color:#4B006E">
   <a href="https://github.com/GabrielMBoeira">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMBoeira&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=Gabriel%27s%20GitHub%20Stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMBoeira&layout=compact&theme=radical&hide=html,css&langs_count=8" />
@@ -45,10 +45,8 @@
 
 ### 🏆 GitHub Trophies
 
-<div align="center">
+<div align="center" style="color:#4B006E">
   <img src="https://github-profile-trophy.vercel.app/?username=GabrielMBoeira&theme=radical&no-frame=true&row=1&column=7" />
 </div>
 
-
-
-
+s
