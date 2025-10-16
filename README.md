@@ -34,7 +34,7 @@
 
 ### 📊 GitHub Statistics
 
-<div align="center" style="color:#4D0C70">
+<div align="center" style="color:#fff">
   <a href="https://github.com/GabrielMBoeira">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMBoeira&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=Gabriel%27s%20GitHub%20Stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMBoeira&layout=compact&theme=radical&hide=html,css&langs_count=8" />
