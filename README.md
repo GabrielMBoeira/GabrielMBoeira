@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <div align="center" style="color:#4D0C70">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0080&center=true&vCenter=true&width=435&lines=Gabriel+Boeira;Building+the+future;Turning+ideas+into+digital+reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4D0C70&center=true&vCenter=true&width=435&lines=Gabriel+Boeira;Building+the+future;Turning+ideas+into+digital+reality" alt="Typing SVG" />
 </div>
 
 <h3 align="center" style="color:#4D0C70">Software Engineer | PHP | Laravel | Vue Js | Next Js | Full Stack</h3>
